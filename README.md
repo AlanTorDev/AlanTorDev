@@ -35,12 +35,12 @@
 <img align="right" src="https://media.giphy.com/media/bcKmIWkUMCjVm/giphy.gif" width="150&quot;">
 <p><img src="https://media.giphy.com/media/ObNTw8Uzwy6KQ/giphy.gif" width="30px">&nbsp;<em><strong>Talking about Personal Stuffs…</strong></em></p>
 <p>✔ Pronouns: <em><strong>He/His</strong></em> or <em><strong>TeamMaker</strong></em>😉 <br>
-✔ I’m currently Developing <strong>Paycron</strong> Payment Gateway <strong>@Plaxonic</strong><br>
+✔ I’m currently <strong>Technical Support</strong> at <strong>@ZOTA</strong><br>
 ✔ I’m currently learning <strong>ReactJS</strong> &amp; <strong>NodeJS</strong><br>
 ✔ I’m looking to collaborate with any <strong>Open - Source contribution</strong><br>
 ✔ I’m looking for help for learning <strong>Remote Sensing</strong><br>
 ✔ I regularly write articles on <a href="https://auth.geeksforgeeks.org/user/akash_chowrasia/articles">GeeksforGeeks</a> <br>
-✔ I use to write coad on <a href="https://leetcode.com/Akash_Chowrasia/">leetcode</a> <br>
+✔ I use to write coad on <a href="https://leetcode.com/Akash_Chowrasia/">LeetCode</a> <br>
 ✔ Ask me about anything, I am happy to help, only if the ball is in my court!😉<br>
 ✔ Fun fact : <em>At The time of Stress coding, I use to be in half sleeping mode</em><br><br><br><br></p>
 
