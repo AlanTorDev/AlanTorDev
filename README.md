@@ -27,7 +27,7 @@
 
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=alantordev&amp;label=Profile%20views&amp;color=0e75b6&amp;style=flat" alt="alantordev"> </p>
-<img align="right" width="300px" alt="Unicorn" src="https://media.giphy.com/media/3ohs4BSacFKI7A717y/giphy.gif">
+<img align="right" src="https://media.giphy.com/media/bcKmIWkUMCjVm/giphy.gif" width="150&quot;">
 <p><img src="https://media.giphy.com/media/ObNTw8Uzwy6KQ/giphy.gif" width="30px">&nbsp;<em><strong>Talking about Personal Stuffs…</strong></em></p>
 <p>✔ Pronouns: <em><strong>He/His</strong></em> or <em><strong>TeamMaker</strong></em>😉 <br>
 ✔ I’m currently Developing <strong>Paycron</strong> Payment Gateway <strong>@Plaxonic</strong><br>
