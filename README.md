@@ -45,15 +45,14 @@
 ✔ Fun fact : <em>At The time of Stress coding, I use to be in half sleeping mode</em><br><br><br><br></p>
 
 <h3>🛠 Tech Stack</h3>
-<ul>
-<li>🌐 &nbsp; JavaScript | TypeScript | ECMAScript | NodeJS | ReactJS | ElectronJS | React NATIVE</li>
-<li>🌐 &nbsp; HTML | CSS  | Bootstrap | Php | Nest.JS</li>
-<li>🛢 &nbsp; MongoDB | MySQL | SQL Server</li>
-<li>🔧 &nbsp; Git | Github | Gitlab | Vscode | Linux</li>
-<li>⚡ &nbsp; RabbitMQ  | Mqtt | Kafka | ElasticSearch | Redis | Microservices</li>
-<li>⚡ &nbsp; Docker | Web Socket | Nginx | DevOps</li>
-<li>🖥 &nbsp; Illustrator| Photoshop | InDesign</li>
-</ul>
+🌐 &nbsp; JavaScript | TypeScript | ECMAScript | NodeJS | ReactJS | ElectronJS | React NATIVE<br>
+🌐 &nbsp; HTML | CSS  | Bootstrap | Php | Nest.JS<br>
+🛢 &nbsp; MongoDB | MySQL | SQL Server<br>
+🔧 &nbsp; Git | Github | Gitlab | Vscode | Linux<br>
+⚡ &nbsp; RabbitMQ  | Mqtt | Kafka | ElasticSearch | Redis | Microservices<br>
+⚡ &nbsp; Docker | Web Socket | Nginx | DevOps<br>
+🖥 &nbsp; Illustrator| Photoshop | InDesign<br><br>
+
 <p><img src="https://img.shields.io/badge/-JavaScript-000?&amp;logo=JavaScript" alt="JavaScript">
 <img src="https://img.shields.io/badge/-TypeScript-000?&amp;logo=TypeScript&amp;logoColor=007ACC" alt="TypeScript">
 <img src="https://img.shields.io/badge/-Eslint-000?&amp;logo=Eslint" alt="Eslint">
