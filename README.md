@@ -99,9 +99,3 @@
   <a href="https://linkedin.com/in/ferdiozer"><img src="https://img.shields.io/badge/linkedin-0077B5.svg?style=for-the-badge&amp;logo=linkedin&amp;logoColor=white"></a>
 <p></p>
 <br>
-
-<br>
-<br>
-<h2 align="center">
-   I ❤ Open Source.
-</h2>
