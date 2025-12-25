@@ -3,7 +3,9 @@
 </p>
 <a href="https://www.youtube.com/watch?v=dQw4w9WgXcQ"><img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif"></a>
 <h1 align="center">Hi <img src="https://raw.githubusercontent.com/ABSphreak/ABSphreak/master/gifs/Hi.gif" width="30px">, I'm Tam Hoang</h1>
-<h3 align="center">Software Engineer | Full-Stack Developer | Data Analysis Enthusiast</h3>
+<p align="center">
+	<img src="https://readme-typing-svg.herokuapp.com?lines=Software+Engineer;Full+Stack+Web+Developer;Freelancer;DS%20|%20AI%20|%20ML%20Enthusiastic;Always%20learning%20new%20things&center=true&width=380&height=45">
+</p>
 <p align="center">
 <a href="https://www.linkedin.com/in/aksia/" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg" alt="aksia" height="30" width="40"></a>
 <a href="https://www.facebook.com/akash.chowrasia.908/" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/facebook.svg" alt="akash chowrasia" height="30" width="40"></a>
