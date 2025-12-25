@@ -30,7 +30,7 @@
 	<img src = "https://github.com/7oSkaaa/7oSkaaa/blob/output/github-contribution-grid-snake.svg?" alt = "Snake Game"/>
 </p>
 
-<div align="center">
+<div align="center"></div>
 
 <img align="right" src="https://media.giphy.com/media/bcKmIWkUMCjVm/giphy.gif" width="150&quot;">
 <p><img src="https://media.giphy.com/media/ObNTw8Uzwy6KQ/giphy.gif" width="30px">&nbsp;<em><strong>Talking about Personal Stuffs…</strong></em></p>
