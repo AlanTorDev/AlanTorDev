@@ -34,7 +34,7 @@
 
 <img align="right" src="https://media.giphy.com/media/bcKmIWkUMCjVm/giphy.gif" width="150&quot;">
 <p><img src="https://media.giphy.com/media/ObNTw8Uzwy6KQ/giphy.gif" width="30px">&nbsp;<em><strong>Talking about Personal Stuffs…</strong></em></p>
-<p>✔ Pronouns: <em><strong>He/His</strong></em> or <em><strong>TeamMaker</strong></em>😉 <br>
+<p>✔ Pronouns: <em><strong>He/His</strong></em> or <em><strong>Barbator</strong></em>😉 <br>
 ✔ I’m currently <strong>Technical Support</strong> at <strong>@ZOTA</strong><br>
 ✔ I’m currently learning <strong>ReactJS</strong> &amp; <strong>NodeJS</strong><br>
 ✔ I’m looking to collaborate with any <strong>Open - Source contribution</strong><br>
