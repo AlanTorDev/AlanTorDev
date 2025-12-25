@@ -34,7 +34,7 @@
 
 <div align="center"></div>
 
-<img align="right" src="https://media.giphy.com/media/bcKmIWkUMCjVm/giphy.gif" style="min-width: 300px">
+<img align="right" src="https://media.giphy.com/media/bcKmIWkUMCjVm/giphy.gif" style="min-width: 200px">
 <h3><img src="https://media.giphy.com/media/ObNTw8Uzwy6KQ/giphy.gif" width="30px">&nbsp;<strong>Talking about Personal Stuffs…</strong></h3>
 <p>✔ Pronouns: <em><strong>He/His</strong></em> or <em><strong>Barbator</strong></em>😉 <br>
 ✔ I’m currently <strong>Technical Support</strong> at <strong>@ZOTA</strong><br>
