@@ -103,7 +103,7 @@
 
 <p>
 	<h3><img src="https://media.giphy.com/media/iY8CRBdQXODJSCERIr/giphy.gif" width="25"> <b>Github Stats</b></h3>
-	![Metrics](./metrics.plugin.achievements.svg)
+![Metrics](./metrics.plugin.achievements.svg)
 </p>
 
 
