@@ -1,0 +1,40 @@
+name: GitHub Metrics
+
+on:
+  # Chạy workflow theo lịch (mỗi ngày lúc 0:00 UTC)
+  schedule:
+    - cron: "0 0 * * *"
+  
+  # Cho phép chạy workflow thủ công
+  workflow_dispatch:
+  
+  # Chạy khi push vào branch main
+  push:
+    branches:
+      - main
+
+jobs:
+  github-metrics:
+    runs-on: ubuntu-latest
+    permissions:
+      contents: write
+    
+    steps:
+      - name: Checkout repository
+        uses: actions/checkout@v4
+
+      - name: Generate Achievements Metrics
+        uses: lowlighter/metrics@v3.34
+        with:
+          filename: metrics.plugin.achievements.svg
+          token: ${{ secrets.METRICS_TOKEN }}
+          base: ""
+          plugin_achievements: yes
+          plugin_achievements_only: sponsor, maintainer, octonaut
+      
+      - name: Commit and push changes
+        run: |
+          git config --local user.email "github-actions[bot]@users.noreply.github.com"
+          git config --local user.name "github-actions[bot]"
+          git add -A
+          git diff --quiet && git diff --staged --quiet || (git commit -m "Update metrics" && git push)
