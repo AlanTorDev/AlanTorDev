@@ -103,15 +103,7 @@
 
 <p>
 	<h3><img src="https://media.giphy.com/media/iY8CRBdQXODJSCERIr/giphy.gif" width="25"> <b>Github Stats</b></h3>
-	<a href="https://github.com/anuraghazra/github-readme-stats">
-   		<img alt="GitHub Stats Card" src="https://github-readme-stats.vercel.app/api?username=AlanTorDev">
-	</a>
-	<a src="https://github.com/anuraghazra/github-readme-stats">
-   		<img alt="Top Languages Card" src="https://github-readme-stats.vercel.app/api/top-langs/?username=AlanTorDev">
-	</a>
-	<a href="https://git.io/streak-stats">
-   		<img src="https://streak-stats.demolab.com?user=AlanTorDev" alt="GitHub Streak">
-	</a>
+	![Metrics](./metrics.plugin.achievements.svg)
 </p>
 
 
