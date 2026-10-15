@@ -2,7 +2,7 @@ name: Awaken
 
 on:
   schedule:
-    - cron: "10 17 * * *"
+    - cron: "10 17 * * *"   # 00:10 in Asia/Saigon
   workflow_dispatch:
   push:
     branches: [main]
