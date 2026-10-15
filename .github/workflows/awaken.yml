@@ -20,4 +20,4 @@ jobs:
     runs-on: ubuntu-latest
     steps:
       - uses: actions/checkout@v4
-      - uses: AlanTorDev/AlanTorDev@main
+      - uses: billtruong003/git-profile-awaken@main
