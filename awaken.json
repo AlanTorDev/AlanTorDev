@@ -1,12 +1,25 @@
 {
   "username": "AlanTorDev",
-  "layout": "dashboard",
+  "layout": "custom",
   "theme": "cyberpunk",
   "title": "berserker",
   "activity": "raid",
   "icons": "brand",
   "motion": "none",
   "timezone": "Asia/Saigon",
+  "widgets": [
+    "hunter",
+    "status",
+    "quest",
+    "skills",
+    "contribution",
+    "runes",
+    "achievements",
+    "combat",
+    "hours",
+    "activity",
+    "daily"
+  ],
   "arsenal": [
     "react",
     "nextdotjs",
@@ -32,10 +45,5 @@
     "mysql",
     "sqlite",
     "flutter"
-  ],
-  "bio": {},
-  "feeds": [],
-  "widgets": [
-    "banner"
   ]
 }
