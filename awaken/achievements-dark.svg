@@ -58,7 +58,7 @@
 <use href="#i-lock" x="647.5" y="128" width="20" height="20" fill="#848ead"/>
 <text x="687.5" y="130" class="strong" fill="#848ead">Relentless</text>
 <path transform="translate(644.5 166)" d="M0 3 3 0 6 3 3 6Z" fill="#313644"/><path transform="translate(654.5 166)" d="M0 3 3 0 6 3 3 6Z" fill="#313644"/><path transform="translate(664.5 166)" d="M0 3 3 0 6 3 3 6Z" fill="#313644"/>
-<text x="687.5" y="149" class="caption" fill="#848ead">55 / 100</text>
+<text x="687.5" y="149" class="caption" fill="#848ead">60 / 100</text>
 <text x="687.5" y="165" class="code" fill="#848ead">COMMITS</text>
 </g>
 <g>
@@ -78,7 +78,7 @@
 <use href="#i-moon" x="242.5" y="204" width="20" height="20" fill="#00f0ff"/>
 <text x="282.5" y="206" class="strong" fill="#ffffff">Night Owl</text>
 <path transform="translate(239.5 242)" d="M0 3 3 0 6 3 3 6Z" fill="#00f0ff"/><path transform="translate(249.5 242)" d="M0 3 3 0 6 3 3 6Z" fill="#00f0ff"/><path transform="translate(259.5 242)" d="M0 3 3 0 6 3 3 6Z" fill="#313644"/>
-<text x="282.5" y="225" class="caption" fill="#ffffff">43 / 45</text>
+<text x="282.5" y="225" class="caption" fill="#ffffff">39 / 45</text>
 <text x="282.5" y="241" class="code" fill="#848ead">% COMMITS 22–05H</text>
 </g>
 <g>
@@ -88,7 +88,7 @@
 <use href="#i-sun" x="445" y="204" width="20" height="20" fill="#ffffff"/>
 <text x="485" y="206" class="strong" fill="#ffffff">Early Bird</text>
 <path transform="translate(442 242)" d="M0 3 3 0 6 3 3 6Z" fill="#00f0ff"/><path transform="translate(452 242)" d="M0 3 3 0 6 3 3 6Z" fill="#313644"/><path transform="translate(462 242)" d="M0 3 3 0 6 3 3 6Z" fill="#313644"/>
-<text x="485" y="225" class="caption" fill="#ffffff">17 / 25</text>
+<text x="485" y="225" class="caption" fill="#ffffff">15 / 25</text>
 <text x="485" y="241" class="code" fill="#848ead">% COMMITS 05–09H</text>
 </g>
 <g>
@@ -108,7 +108,7 @@
 <use href="#i-gate" x="40" y="280" width="20" height="20" fill="#ffffff"/>
 <text x="80" y="282" class="strong" fill="#ffffff">Gate Opener</text>
 <path transform="translate(37 318)" d="M0 3 3 0 6 3 3 6Z" fill="#00f0ff"/><path transform="translate(47 318)" d="M0 3 3 0 6 3 3 6Z" fill="#313644"/><path transform="translate(57 318)" d="M0 3 3 0 6 3 3 6Z" fill="#313644"/>
-<text x="80" y="301" class="caption" fill="#ffffff">7 / 20</text>
+<text x="80" y="301" class="caption" fill="#ffffff">9 / 20</text>
 <text x="80" y="317" class="code" fill="#848ead">REPOS THIS YEAR</text>
 </g>
 <g>
@@ -148,7 +148,7 @@
 <use href="#i-scroll" x="40" y="356" width="20" height="20" fill="#ffffff"/>
 <text x="80" y="358" class="strong" fill="#ffffff">Polyglot</text>
 <path transform="translate(37 394)" d="M0 3 3 0 6 3 3 6Z" fill="#00f0ff"/><path transform="translate(47 394)" d="M0 3 3 0 6 3 3 6Z" fill="#313644"/><path transform="translate(57 394)" d="M0 3 3 0 6 3 3 6Z" fill="#313644"/>
-<text x="80" y="377" class="caption" fill="#ffffff">3 / 5</text>
+<text x="80" y="377" class="caption" fill="#ffffff">4 / 5</text>
 <text x="80" y="393" class="code" fill="#848ead">LANGUAGES ≥ 1%</text>
 </g>
 <g>
@@ -238,7 +238,7 @@
 <use href="#i-lock" x="242.5" y="508" width="20" height="20" fill="#848ead"/>
 <text x="282.5" y="510" class="strong" fill="#848ead">Quest Hunter</text>
 <path transform="translate(239.5 546)" d="M0 3 3 0 6 3 3 6Z" fill="#313644"/><path transform="translate(249.5 546)" d="M0 3 3 0 6 3 3 6Z" fill="#313644"/><path transform="translate(259.5 546)" d="M0 3 3 0 6 3 3 6Z" fill="#313644"/>
-<text x="282.5" y="529" class="caption" fill="#848ead">0 / 50</text>
+<text x="282.5" y="529" class="caption" fill="#848ead">2 / 50</text>
 <text x="282.5" y="545" class="code" fill="#848ead">QUESTS CLEARED</text>
 </g>
 <g>
@@ -258,7 +258,7 @@
 <use href="#i-lock" x="647.5" y="508" width="20" height="20" fill="#848ead"/>
 <text x="687.5" y="510" class="strong" fill="#848ead">Escape Artist</text>
 <path transform="translate(644.5 546)" d="M0 3 3 0 6 3 3 6Z" fill="#313644"/><path transform="translate(654.5 546)" d="M0 3 3 0 6 3 3 6Z" fill="#313644"/><path transform="translate(664.5 546)" d="M0 3 3 0 6 3 3 6Z" fill="#313644"/>
-<text x="687.5" y="529" class="caption" fill="#848ead">0 / 3</text>
+<text x="687.5" y="529" class="caption" fill="#848ead">1 / 3</text>
 <text x="687.5" y="545" class="code" fill="#848ead">PENALTY ESCAPES</text>
 </g>
 <g>
@@ -268,7 +268,7 @@
 <use href="#i-lock" x="40" y="584" width="20" height="20" fill="#848ead"/>
 <text x="80" y="586" class="strong" fill="#848ead">Collector</text>
 <path transform="translate(37 622)" d="M0 3 3 0 6 3 3 6Z" fill="#313644"/><path transform="translate(47 622)" d="M0 3 3 0 6 3 3 6Z" fill="#313644"/><path transform="translate(57 622)" d="M0 3 3 0 6 3 3 6Z" fill="#313644"/>
-<text x="80" y="605" class="caption" fill="#848ead">0 / 4</text>
+<text x="80" y="605" class="caption" fill="#848ead">2 / 4</text>
 <text x="80" y="621" class="code" fill="#848ead">QUEST KINDS</text>
 </g>
 <text x="820" y="646" class="code" fill="#848ead" text-anchor="end">@AlanTorDev · SYNCED 2026-10-15</text>
