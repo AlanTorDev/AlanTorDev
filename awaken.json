@@ -34,5 +34,8 @@
     "flutter"
   ],
   "bio": {},
-  "feeds": []
+  "feeds": [],
+  "widgets": [
+    "banner"
+  ]
 }
