@@ -2,7 +2,7 @@
   "login": "AlanTorDev",
   "level": 4,
   "overall": "C",
-  "overallPercentile": 0.6077887464669093,
+  "overallPercentile": 0.6087399398092644,
   "layout": "custom",
   "class": {
     "name": "Blade Master",
@@ -13,9 +13,9 @@
   "stats": [
     {
       "code": "STR",
-      "value": 62,
+      "value": 63,
       "rank": "D",
-      "percentile": 0.5633324071156331
+      "percentile": 0.5672618494401659
     },
     {
       "code": "AGI",
@@ -104,22 +104,22 @@
     {
       "id": "relentless",
       "tier": 0,
-      "value": 62
+      "value": 63
     },
     {
       "id": "unbroken",
       "tier": 0,
-      "value": 2
+      "value": 3
     },
     {
       "id": "night-owl",
       "tier": 2,
-      "value": 40
+      "value": 41
     },
     {
       "id": "early-bird",
-      "tier": 1,
-      "value": 15
+      "tier": 0,
+      "value": 14
     },
     {
       "id": "weekend-warrior",
@@ -179,7 +179,7 @@
     {
       "id": "diligent",
       "tier": 0,
-      "value": 15
+      "value": 16
     },
     {
       "id": "daily-grinder",
@@ -194,7 +194,7 @@
     {
       "id": "quest-hunter",
       "tier": 0,
-      "value": 9
+      "value": 11
     },
     {
       "id": "boss-slayer",
@@ -214,6 +214,11 @@
   ],
   "quests": {
     "days": [
+      {
+        "date": "2026-10-19",
+        "cleared": 2,
+        "total": 3
+      },
       {
         "date": "2026-10-18",
         "cleared": 3,
@@ -241,9 +246,9 @@
       }
     ],
     "perfectDays": 1,
-    "run": 1,
+    "run": 0,
     "bestRun": 1,
-    "questsDone": 9,
+    "questsDone": 11,
     "bosses": [
       "2026-10-12"
     ],
@@ -257,5 +262,5 @@
       "streak"
     ]
   },
-  "syncedAt": "2026-10-18T19:24:18.764Z"
+  "syncedAt": "2026-10-19T21:28:46.986Z"
 }
