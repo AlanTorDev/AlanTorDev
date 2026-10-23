@@ -2,7 +2,7 @@
   "login": "AlanTorDev",
   "level": 4,
   "overall": "C",
-  "overallPercentile": 0.6143662977977905,
+  "overallPercentile": 0.6153364313209635,
   "layout": "custom",
   "class": {
     "name": "Blade Master",
@@ -13,9 +13,9 @@
   "stats": [
     {
       "code": "STR",
-      "value": 65,
+      "value": 67,
       "rank": "D",
-      "percentile": 0.5749250433022051
+      "percentile": 0.5823383404011816
     },
     {
       "code": "AGI",
@@ -49,6 +49,13 @@
     }
   ],
   "events": [
+    {
+      "kind": "achievement",
+      "subject": "polyglot",
+      "from": "1",
+      "to": "2",
+      "at": "2026-10-23T20:22:58.196Z"
+    },
     {
       "kind": "stat",
       "subject": "VIT",
@@ -90,7 +97,7 @@
     {
       "id": "relentless",
       "tier": 0,
-      "value": 65
+      "value": 67
     },
     {
       "id": "unbroken",
@@ -100,12 +107,12 @@
     {
       "id": "night-owl",
       "tier": 2,
-      "value": 40
+      "value": 39
     },
     {
       "id": "early-bird",
       "tier": 0,
-      "value": 14
+      "value": 13
     },
     {
       "id": "weekend-warrior",
@@ -134,8 +141,8 @@
     },
     {
       "id": "polyglot",
-      "tier": 1,
-      "value": 4
+      "tier": 2,
+      "value": 5
     },
     {
       "id": "star-collector",
@@ -165,7 +172,7 @@
     {
       "id": "diligent",
       "tier": 0,
-      "value": 17
+      "value": 18
     },
     {
       "id": "daily-grinder",
@@ -180,12 +187,12 @@
     {
       "id": "quest-hunter",
       "tier": 0,
-      "value": 15
+      "value": 16
     },
     {
       "id": "boss-slayer",
       "tier": 1,
-      "value": 1
+      "value": 2
     },
     {
       "id": "escape-artist",
@@ -200,6 +207,11 @@
   ],
   "quests": {
     "days": [
+      {
+        "date": "2026-10-23",
+        "cleared": 1,
+        "total": 3
+      },
       {
         "date": "2026-10-22",
         "cleared": 2,
@@ -249,8 +261,9 @@
     "perfectDays": 1,
     "run": 0,
     "bestRun": 1,
-    "questsDone": 15,
+    "questsDone": 16,
     "bosses": [
+      "2026-10-19",
       "2026-10-12"
     ],
     "escapes": 2,
@@ -263,5 +276,5 @@
       "streak"
     ]
   },
-  "syncedAt": "2026-10-22T20:32:08.137Z"
+  "syncedAt": "2026-10-23T20:22:58.196Z"
 }
