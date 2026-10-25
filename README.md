@@ -43,6 +43,6 @@
 </p>
 
 <p align="center">
-<img src="awaken/daily-dark.svg" width="49%" alt="AlanTorDev: daily quest">
+<img src="awaken/daily-dark.svg" width="49%" alt="AlanTorDev: penalty zone">
 </p>
 <!-- AWAKEN:END -->
