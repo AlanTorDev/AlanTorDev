@@ -148,7 +148,7 @@
 <use href="#i-scroll" x="40" y="356" width="20" height="20" fill="#00f0ff"/>
 <text x="80" y="358" class="strong" fill="#ffffff">Polyglot</text>
 <path transform="translate(37 394)" d="M0 3 3 0 6 3 3 6Z" fill="#00f0ff"/><path transform="translate(47 394)" d="M0 3 3 0 6 3 3 6Z" fill="#00f0ff"/><path transform="translate(57 394)" d="M0 3 3 0 6 3 3 6Z" fill="#313644"/>
-<text x="80" y="377" class="caption" fill="#ffffff">5 / 8</text>
+<text x="80" y="377" class="caption" fill="#ffffff">6 / 8</text>
 <text x="80" y="393" class="code" fill="#848ead">LANGUAGES ≥ 1%</text>
 </g>
 <g>
@@ -238,7 +238,7 @@
 <use href="#i-lock" x="242.5" y="508" width="20" height="20" fill="#848ead"/>
 <text x="282.5" y="510" class="strong" fill="#848ead">Quest Hunter</text>
 <path transform="translate(239.5 546)" d="M0 3 3 0 6 3 3 6Z" fill="#313644"/><path transform="translate(249.5 546)" d="M0 3 3 0 6 3 3 6Z" fill="#313644"/><path transform="translate(259.5 546)" d="M0 3 3 0 6 3 3 6Z" fill="#313644"/>
-<text x="282.5" y="529" class="caption" fill="#848ead">20 / 50</text>
+<text x="282.5" y="529" class="caption" fill="#848ead">21 / 50</text>
 <text x="282.5" y="545" class="code" fill="#848ead">QUESTS CLEARED</text>
 </g>
 <g>
@@ -271,5 +271,5 @@
 <text x="80" y="605" class="caption" fill="#ffffff">6 / 7</text>
 <text x="80" y="621" class="code" fill="#848ead">QUEST KINDS</text>
 </g>
-<text x="820" y="646" class="code" fill="#848ead" text-anchor="end">@AlanTorDev · SYNCED 2026-11-18</text>
+<text x="820" y="646" class="code" fill="#848ead" text-anchor="end">@AlanTorDev · SYNCED 2026-11-19</text>
 </svg>
